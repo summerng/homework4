@@ -58,7 +58,6 @@ nav a:hover, a:focus{
 .skip a:focus {
   top: 0px;
   margin: auto;
-  position: absolute;
 
 }
 /*Your Code Here*/
